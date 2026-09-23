@@ -36,6 +36,3 @@ console.print(f"your final percentage is :{correct_answers / len(Qs) * 100}")
 
 
 
-
-
-
